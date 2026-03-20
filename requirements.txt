@@ -1,31 +1,24 @@
-# ── Core ──────────────────────────────────────────────────────────────────────
+# Core
 groq
 python-dotenv==1.0.1
+bcrypt
 
-# ── LangGraph + LangChain (pinned compatible set) ─────────────────────────────
-langgraph==0.2.73
-langchain-anthropic==0.3.10
-langchain==0.3.25
+# LangGraph + LangChain
+langgraph
+langchain-anthropic
+langchain
 langchain-core
 
-# ── Memory ────────────────────────────────────────────────────────────────────
-
+# Memory
 chromadb==0.4.24
 
-# ── Embeddings ────────────────────────────────────────────────────────────────
-sentence-transformers==3.4.1
-scikit-learn==1.6.1
-numpy==1.26.4
-
-# ── Data ──────────────────────────────────────────────────────────────────────
-pandas==2.2.3
-
-# ── UI ────────────────────────────────────────────────────────────────────────
-streamlit==1.44.0
-protobuf>=5.0,<6.0
-googleapis-common-protos
-opentelemetry-proto
-
-#eval metrics
-matplotlib 
+# Embeddings
+sentence-transformers
 scikit-learn
+numpy
+
+# Data
+pandas
+
+# UI
+streamlit
