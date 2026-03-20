@@ -8,7 +8,7 @@ langchain-core
 chromadb==0.4.24
 sentence-transformers
 scikit-learn
-numpy
+numpy<2.0.0
 pandas
 streamlit==1.41.0
 altair==4.2.2
