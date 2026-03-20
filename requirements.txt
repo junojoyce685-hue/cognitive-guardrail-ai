@@ -1,24 +1,14 @@
-# Core
 groq
 python-dotenv==1.0.1
 bcrypt
-
-# LangGraph + LangChain
 langgraph
 langchain-anthropic
 langchain
 langchain-core
-
-# Memory
 chromadb==0.4.24
-
-# Embeddings
 sentence-transformers
 scikit-learn
 numpy
-
-# Data
 pandas
-
-# UI
-streamlit
+streamlit==1.41.0
+altair==4.2.2
