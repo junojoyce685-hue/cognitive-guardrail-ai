@@ -1,0 +1,16 @@
+{
+  "user_id": "juno",
+  "sessions": [
+    {
+      "session_id": "ff83eda9",
+      "timestamp": "2026-03-20T17:07:57.063019",
+      "analyst_label": "Fortune-telling",
+      "da_verdict": "AGREE",
+      "da_suggested": "",
+      "consensus_loops": 0,
+      "user_feedback": "none",
+      "flagged": false,
+      "technique": "Reality check, Socratic questioning"
+    }
+  ]
+}

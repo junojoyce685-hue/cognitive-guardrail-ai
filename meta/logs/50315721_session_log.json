@@ -1,0 +1,71 @@
+{
+  "user_id": "50315721",
+  "sessions": [
+    {
+      "session_id": "655e1fd3",
+      "timestamp": "2026-03-20T13:55:14.970230",
+      "analyst_label": "All-or-nothing thinking",
+      "da_verdict": "AGREE",
+      "da_suggested": "",
+      "consensus_loops": 0,
+      "user_feedback": "none",
+      "flagged": false,
+      "technique": "Socratic questioning"
+    },
+    {
+      "session_id": "655e1fd3",
+      "timestamp": "2026-03-20T13:55:30.939528",
+      "analyst_label": "All-or-nothing thinking",
+      "da_verdict": "AGREE",
+      "da_suggested": "",
+      "consensus_loops": 0,
+      "user_feedback": "helpful",
+      "flagged": false,
+      "technique": "Socratic questioning"
+    },
+    {
+      "session_id": "655e1fd3",
+      "timestamp": "2026-03-20T13:57:20.832343",
+      "analyst_label": "All-or-nothing thinking",
+      "da_verdict": "CHALLENGE",
+      "da_suggested": "No distortion",
+      "consensus_loops": 2,
+      "user_feedback": "none",
+      "flagged": false,
+      "technique": "Reality check"
+    },
+    {
+      "session_id": "655e1fd3",
+      "timestamp": "2026-03-20T14:00:55.482321",
+      "analyst_label": "Labeling",
+      "da_verdict": "CHALLENGE",
+      "da_suggested": "Overgeneralization",
+      "consensus_loops": 2,
+      "user_feedback": "none",
+      "flagged": false,
+      "technique": "Socratic questioning"
+    },
+    {
+      "session_id": "655e1fd3",
+      "timestamp": "2026-03-20T14:27:08.954223",
+      "analyst_label": "Mind Reading",
+      "da_verdict": "CHALLENGE",
+      "da_suggested": "No distortion",
+      "consensus_loops": 2,
+      "user_feedback": "none",
+      "flagged": false,
+      "technique": "Socratic questioning"
+    },
+    {
+      "session_id": "655e1fd3",
+      "timestamp": "2026-03-20T14:29:41.804215",
+      "analyst_label": "Mind Reading",
+      "da_verdict": "CHALLENGE",
+      "da_suggested": "",
+      "consensus_loops": 2,
+      "user_feedback": "helpful",
+      "flagged": false,
+      "technique": "Socratic questioning"
+    }
+  ]
+}
