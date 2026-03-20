@@ -1,6 +1,9 @@
 # cognitive-guardrail-ai
 analyzes user thoughts, detects biased thinking patterns, challenges them, and generates improved responses while learning from past mistakes
 
+# demo :
+https://cognitive-guardrail-ai.streamlit.app/
+
 -> Distorted thinking often lacks structured feedback, and standard chatbots offer unvalidated, single-pass responses.
 
 # Note
