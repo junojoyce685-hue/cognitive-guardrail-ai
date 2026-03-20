@@ -1,6 +1,8 @@
 import os
 import streamlit as st
 
+CHROMA_DB_PATH = "./chroma_db"
+
 def get_secret(key: str) -> str:
     # Try Streamlit secrets first (cloud), fall back to env/.env (local)
     try:
