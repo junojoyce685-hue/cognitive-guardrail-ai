@@ -1,0 +1,34 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Database / memory stores
+chroma_db/
+memory/store/
+
+# User data — never push this
+meta/logs/
+meta/patches/
+meta/users.json
+
+# Evaluation outputs
+eval_results.json
+eval_confusion_matrix.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml

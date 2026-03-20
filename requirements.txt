@@ -1,0 +1,31 @@
+# ── Core ──────────────────────────────────────────────────────────────────────
+groq
+python-dotenv==1.0.1
+
+# ── LangGraph + LangChain (pinned compatible set) ─────────────────────────────
+langgraph==0.2.73
+langchain-anthropic==0.3.10
+langchain==0.3.25
+langchain-core
+
+# ── Memory ────────────────────────────────────────────────────────────────────
+
+chromadb==0.4.24
+
+# ── Embeddings ────────────────────────────────────────────────────────────────
+sentence-transformers==3.4.1
+scikit-learn==1.6.1
+numpy==1.26.4
+
+# ── Data ──────────────────────────────────────────────────────────────────────
+pandas==2.2.3
+
+# ── UI ────────────────────────────────────────────────────────────────────────
+streamlit==1.44.0
+protobuf>=5.0,<6.0
+googleapis-common-protos
+opentelemetry-proto
+
+#eval metrics
+matplotlib 
+scikit-learn

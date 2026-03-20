@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1f2e82ce",
+    "user_id": "50315721",
+    "summary": "Session 655e1fd3: Patient expressed thoughts showing 'All-or-nothing thinking' (confidence: 0.8). Responded using 'Socratic questioning' technique. ",
+    "distortion_label": "All-or-nothing thinking",
+    "confidence": 0.8,
+    "session_id": "655e1fd3",
+    "status": "PENDING",
+    "timestamp": "2026-03-20T13:55:08.080442",
+    "type": "session_inference"
+  },
+  {
+    "id": "40a8ac0c",
+    "user_id": "50315721",
+    "summary": "Session 655e1fd3: Patient expressed thoughts showing 'All-or-nothing thinking' (confidence: 0.8). Responded using 'Reality check' technique. ",
+    "distortion_label": "All-or-nothing thinking",
+    "confidence": 0.8,
+    "session_id": "655e1fd3",
+    "status": "PENDING",
+    "timestamp": "2026-03-20T13:57:13.549112",
+    "type": "session_inference"
+  },
+  {
+    "id": "952dbc09",
+    "user_id": "50315721",
+    "summary": "Session 655e1fd3: Patient expressed thoughts showing 'Labeling' (confidence: 0.8). Responded using 'Socratic questioning' technique. ",
+    "distortion_label": "Labeling",
+    "confidence": 0.8,
+    "session_id": "655e1fd3",
+    "status": "PENDING",
+    "timestamp": "2026-03-20T14:00:51.484423",
+    "type": "session_inference"
+  },
+  {
+    "id": "38786775",
+    "user_id": "50315721",
+    "summary": "Session 655e1fd3: Patient expressed thoughts showing 'Mind Reading' (confidence: 0.8). Responded using 'Socratic questioning' technique. ",
+    "distortion_label": "Mind Reading",
+    "confidence": 0.8,
+    "session_id": "655e1fd3",
+    "status": "PENDING",
+    "timestamp": "2026-03-20T14:27:00.016581",
+    "type": "session_inference"
+  }
+]

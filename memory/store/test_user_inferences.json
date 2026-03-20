@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1e02acea",
+    "user_id": "test_user",
+    "summary": "User shows overgeneralization around work failures",
+    "distortion_label": "Overgeneralization",
+    "confidence": 0.88,
+    "session_id": "session_001",
+    "status": "PENDING",
+    "timestamp": "2026-03-20T11:51:27.011897",
+    "type": "session_inference"
+  }
+]

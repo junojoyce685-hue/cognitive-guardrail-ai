@@ -1,0 +1,180 @@
+{
+  "distortions": [
+    {
+      "label": "All-or-nothing thinking",
+      "aliases": ["black-and-white thinking", "polarized thinking", "dichotomous thinking"],
+      "definition": "Viewing situations in only two categories instead of on a continuum. If a situation falls short of perfect, it is seen as a total failure.",
+      "keywords": ["always", "never", "completely", "total", "perfect", "failure", "either", "or", "nothing"],
+      "examples": [
+        "If I am not a complete success at my job, then I am a total failure.",
+        "Either I do this perfectly or there's no point doing it at all.",
+        "I got one question wrong, so I failed the whole test."
+      ],
+      "non_examples": [
+        "I did well on most of the test but struggled on one section.",
+        "Some days are better than others."
+      ]
+    },
+    {
+      "label": "Overgeneralization",
+      "aliases": ["sweeping generalization", "broad conclusion"],
+      "definition": "Drawing broad conclusions based on a single event or limited evidence. Applying one negative experience to all future situations.",
+      "keywords": ["always", "never", "everyone", "nobody", "all", "every time", "nothing ever"],
+      "examples": [
+        "One nurse was rude to me, so all medical staff must be rude.",
+        "I failed this test, I always fail everything.",
+        "Last time I swam I almost drowned, I am a terrible swimmer and should never go in water again."
+      ],
+      "non_examples": [
+        "That nurse was rude to me today.",
+        "I struggled with this particular test."
+      ]
+    },
+    {
+      "label": "Mental filter",
+      "aliases": ["negative focus", "tunnel vision", "selective abstraction"],
+      "definition": "Focusing exclusively on negative details while ignoring or dismissing positive aspects of a situation. A single negative detail colors the entire experience.",
+      "keywords": ["but", "except", "only", "ruined", "spoiled", "despite"],
+      "examples": [
+        "I got great feedback on my presentation but one person looked bored so it was terrible.",
+        "My whole day was ruined because I spilled coffee in the morning.",
+        "Everyone said I did well but I know I made a mistake at the beginning."
+      ],
+      "non_examples": [
+        "The presentation had some strong parts and some weaker parts.",
+        "It was a mostly good day with one frustrating moment."
+      ]
+    },
+    {
+      "label": "Should statements",
+      "aliases": ["mustabation", "rigid rules", "moral imperatives"],
+      "definition": "Having a fixed set of rules about how oneself or others must behave. The word 'should' or its synonyms do not have to be explicitly present.",
+      "keywords": ["should", "must", "ought to", "supposed to", "have to", "need to", "expected to"],
+      "examples": [
+        "I should always be productive. If I rest, I am lazy.",
+        "I don't have ups and downs like teenagers are supposed to.",
+        "A good parent must never lose their temper with their children.",
+        "I have to be liked by everyone I meet."
+      ],
+      "non_examples": [
+        "I would like to be more productive.",
+        "I prefer to stay calm in difficult situations."
+      ]
+    },
+    {
+      "label": "Labeling",
+      "aliases": ["global labeling", "mislabeling", "name-calling"],
+      "definition": "Reducing oneself or others to a single negative or positive characteristic or descriptor, rather than seeing the full complexity of a person.",
+      "keywords": ["I am a", "he is a", "she is a", "they are", "I am just", "total", "complete", "loser", "failure", "idiot", "perfect", "worthless"],
+      "examples": [
+        "I am a failure.",
+        "He is a total loser.",
+        "I am just an anxious person, that's all I am.",
+        "We were perfect together."
+      ],
+      "non_examples": [
+        "I failed at this task.",
+        "He made a poor decision.",
+        "I tend to feel anxious in social situations."
+      ]
+    },
+    {
+      "label": "Personalization",
+      "aliases": ["self-blame", "other-blame", "misattribution"],
+      "definition": "Taking excessive personal responsibility for events outside your control, or blaming others for things that involved many factors.",
+      "keywords": ["my fault", "because of me", "I caused", "I made", "blame", "responsible", "if only I had"],
+      "examples": [
+        "My child is struggling in school, it must be because I am a bad parent.",
+        "My friend is upset today, I must have done something wrong.",
+        "Our team lost the game because I missed that one shot.",
+        "If I had been a better partner, they would not have left."
+      ],
+      "non_examples": [
+        "I could have handled that situation better.",
+        "There were many factors that led to the team losing."
+      ]
+    },
+    {
+      "label": "Magnification",
+      "aliases": ["catastrophizing", "blowing out of proportion", "minimization"],
+      "definition": "Exaggerating the importance or impact of problems and shortcomings, or minimizing the importance of positive qualities. Unlike mental filter, this focuses on the scale of impact rather than just ignoring positives.",
+      "keywords": ["terrible", "horrible", "catastrophe", "disaster", "ruined", "destroyed", "worst", "devastating", "never recover"],
+      "examples": [
+        "If I don't pass this test I will never be successful in my career.",
+        "I made a small mistake at work, my entire reputation is now destroyed.",
+        "This is the worst thing that has ever happened to me.",
+        "If I embarrass myself at this party my social life is over."
+      ],
+      "non_examples": [
+        "This mistake will have some consequences I need to deal with.",
+        "Failing this test means I need to retake it."
+      ]
+    },
+    {
+      "label": "Emotional Reasoning",
+      "aliases": ["feelings as facts", "emotional evidence"],
+      "definition": "Assuming that negative emotions reflect reality. If something feels true, it must be true, regardless of evidence to the contrary.",
+      "keywords": ["I feel like", "I feel that", "it feels", "I just know", "I sense", "must be true", "must be"],
+      "examples": [
+        "I feel like a failure so I must be a failure.",
+        "I feel stupid in this class so I must be the least intelligent person here.",
+        "I feel like he is not being honest with me, he must be hiding something.",
+        "I feel overwhelmed so this situation must be impossible to handle."
+      ],
+      "non_examples": [
+        "I feel frustrated about this situation.",
+        "I feel nervous about the interview."
+      ]
+    },
+    {
+      "label": "Mind Reading",
+      "aliases": ["assumption of intent", "inferring thoughts", "assumed negativity"],
+      "definition": "Assuming you know what others are thinking or what their motivations are, without direct evidence. Usually assumes negative intent or judgment.",
+      "keywords": ["they think", "she thinks", "he thinks", "they won't", "they don't", "they hate", "they judge", "I know they", "they must think"],
+      "examples": [
+        "They won't understand if I try to explain.",
+        "She ignored me so she must dislike me.",
+        "Everyone at the party thought I was awkward.",
+        "My boss did not reply quickly, he must be angry with me."
+      ],
+      "non_examples": [
+        "She told me she was frustrated with my work.",
+        "He said he did not enjoy the event."
+      ]
+    },
+    {
+      "label": "Fortune-telling",
+      "aliases": ["negative prediction", "catastrophic prediction", "pessimistic forecasting"],
+      "definition": "Expecting or predicting that things will turn out badly, as if you can see the future. Does not always use future tense — the prediction can be about a past decision made based on an assumed negative outcome.",
+      "keywords": ["will fail", "won't work", "going to go wrong", "no point", "it will never", "bound to", "I knew it would", "decided not to because"],
+      "examples": [
+        "There is no point applying for that job, I won't get it anyway.",
+        "I was afraid of job interviews so I started my own business instead.",
+        "I did not ask her out because I knew she would say no.",
+        "I will definitely embarrass myself if I go to that event."
+      ],
+      "non_examples": [
+        "I am nervous about how the interview will go.",
+        "I hope things go well at the event."
+      ]
+    },
+    {
+      "label": "No distortion",
+      "aliases": ["healthy thinking", "balanced thinking"],
+      "definition": "The statement does not contain evidence of any cognitive distortion. The thought is proportional, evidence-based, and does not reflect polarized, catastrophic, or irrational thinking.",
+      "keywords": [],
+      "examples": [
+        "I had a difficult day but I managed to get through it.",
+        "I feel sad about what happened, and I think that is a normal reaction.",
+        "I made a mistake and I am going to learn from it."
+      ],
+      "non_examples": []
+    }
+  ],
+  "metadata": {
+    "total_labels": 11,
+    "version": "1.0",
+    "source": "Based on annotated clinical dataset of 2530 patient samples",
+    "notes": "Secondary distortion field is optional. Dominant distortion should always be selected from this list. All-or-nothing thinking and Overgeneralization may overlap — use keyword context to differentiate."
+  }
+}
